@@ -5,6 +5,7 @@ from collections import defaultdict
 from sklearn.metrics import cohen_kappa_score
 from sklearn.preprocessing import LabelEncoder
 import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
 
 # import all annotated data, and merge into one file
 folder_path = './datasets'
@@ -113,9 +114,10 @@ def get_ground_truth(row):
             return None
 
 merged_df['Ground_Truth_Label'] = merged_df.apply(get_ground_truth, axis=1)
+merged_df = merged_df[['Post Title', 'Comment', 'Ground_Truth_Label']].dropna()
 
 # Export merged data with ground truth
-ground_truth_output_path = 'outputs/merged_annotation_with_ground_truth.xlsx'
+ground_truth_output_path = 'outputs/data_annotation_with_ground_truth.xlsx'
 merged_df.to_excel(ground_truth_output_path, index=False)
 print("Ground_Truth_Label column added and exported.")
 
@@ -134,3 +136,25 @@ plt.savefig('outputs/ground_truth_label_distribution_pie.png')
 plt.close()
 
 print("Ground truth label distribution visualizations saved.")
+
+# ------------------------------------------------------------------------------------------------------------
+
+# 
+data = merged_df.reset_index(drop=True)
+data['ID'] = data.index + 1
+data = data[['ID', 'Post Title', 'Comment', 'Ground_Truth_Label']]
+
+# split data into train/val/test（70/10/20）
+train_val_data, test_data = train_test_split(data, test_size=0.2, random_state=42, stratify=data['Ground_Truth_Label'])
+train_data, val_data = train_test_split(train_val_data, test_size=0.125, random_state=42, stratify=train_val_data['Ground_Truth_Label'])
+
+submission_template = test_data[['ID']].copy()
+submission_template['Predicted_Label'] = ''
+
+# export csv file
+os.makedirs('codabench_dataset', exist_ok=True)
+train_data.to_csv('codabench_dataset/train_data.csv', index=False)
+val_data.to_csv('codabench_dataset/val_data.csv', index=False)
+test_data.drop(columns='Ground_Truth_Label').to_csv('codabench_dataset/test_data.csv', index=False)
+test_data[['ID', 'Ground_Truth_Label']].to_csv('codabench_dataset/ground_truth_test_data.csv', index=False)
+submission_template.to_csv('codabench_dataset/submission_format.csv', index=False)

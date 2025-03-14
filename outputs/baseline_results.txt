@@ -1,0 +1,45 @@
+---------------------Random Baseline Report--------------------- 
+              precision    recall  f1-score   support
+
+  High-Value       0.15      0.29      0.20        31
+   Low-Value       0.40      0.22      0.28       119
+   Mid-Value       0.25      0.26      0.26        68
+       Noisy       0.14      0.20      0.16        51
+
+    accuracy                           0.23       269
+   macro avg       0.23      0.24      0.23       269
+weighted avg       0.28      0.23      0.24       269
+
+
+---------------------Logistic Regression Results---------------------
+Test Accuracy: 0.3717
+Validation Accuracy: 0.3185
+
+Classification Report on Test Data:
+              precision    recall  f1-score   support
+
+  High-Value       0.34      0.45      0.39        31
+   Low-Value       0.43      0.37      0.40       119
+   Mid-Value       0.33      0.43      0.37        68
+       Noisy       0.36      0.25      0.30        51
+
+    accuracy                           0.37       269
+   macro avg       0.36      0.38      0.36       269
+weighted avg       0.38      0.37      0.37       269
+
+
+---------------------Random Forest Results---------------------
+Test Accuracy: 0.4052
+Validation Accuracy: 0.3333
+
+Classification Report on Test Data:
+              precision    recall  f1-score   support
+
+  High-Value       0.75      0.10      0.17        31
+   Low-Value       0.45      0.63      0.53       119
+   Mid-Value       0.22      0.07      0.11        68
+       Noisy       0.34      0.51      0.41        51
+
+    accuracy                           0.41       269
+   macro avg       0.44      0.33      0.30       269
+weighted avg       0.41      0.41      0.36       269

@@ -84,19 +84,19 @@ else:
     score = cohen_kappa_score(l1, l2)
     print(f"Score of Cohen’s Kappa: {score:.3f}")
 
-     # Add label_adjustion column
-    df_pair['Label_adjustion'] = df_pair[label1].where(df_pair[label1] == df_pair[label2])
+     # Add label_adjudication column
+    df_pair['Label_adjudication'] = df_pair[label1].where(df_pair[label1] == df_pair[label2])
 
     # Export updated data
-    adjustment_output_path = 'outputs/annotation_alalysis/cohen_pair_data_with_adjustion.xlsx'
-    df_pair.to_excel(adjustment_output_path, index=False)
+    adjudication_output_path = 'outputs/annotation_alalysis/cohen_pair_data_with_adjudication.xlsx'
+    df_pair.to_excel(adjudication_output_path, index=False)
 
 # ------------------------------------------------------------------------------------------------------------
 
 # ground trugh
 
 # Generate Ground Truth Column in merged_df
-adjustion_df = pd.read_excel('datasets/data_adjustion.xlsx')
+adjudication_df = pd.read_excel('datasets/data_adjudication.xlsx')
 
 def get_ground_truth(row):
     if pd.isna(row['Label2']):
@@ -104,12 +104,12 @@ def get_ground_truth(row):
     elif pd.isna(row['Label1']):
         return row['Label2']
     else:
-        matched = adjustion_df[
-            (adjustion_df['Post Title'] == row['Post Title']) &
-            (adjustion_df['Comment'] == row['Comment'])
+        matched = adjudication_df[
+            (adjudication_df['Post Title'] == row['Post Title']) &
+            (adjudication_df['Comment'] == row['Comment'])
         ]
         if not matched.empty:
-            return matched.iloc[0]['Label_adjustion']
+            return matched.iloc[0]['Label_adjudication']
         else:
             return None
 
@@ -148,13 +148,13 @@ data = data[['ID', 'Post Title', 'Comment', 'Ground_Truth_Label']]
 train_val_data, test_data = train_test_split(data, test_size=0.2, random_state=42, stratify=data['Ground_Truth_Label'])
 train_data, val_data = train_test_split(train_val_data, test_size=0.125, random_state=42, stratify=train_val_data['Ground_Truth_Label'])
 
-submission_template = test_data[['ID']].copy()
-submission_template['Predicted_Label'] = ''
+# submission_template = test_data[['ID']].copy()
+# submission_template['Predicted_Label'] = ''
 
 # export csv file
 os.makedirs('codabench_dataset', exist_ok=True)
 train_data.to_csv('codabench_dataset/train_data.csv', index=False)
 val_data.to_csv('codabench_dataset/val_data.csv', index=False)
-test_data.drop(columns='Ground_Truth_Label').to_csv('codabench_dataset/test_data.csv', index=False)
-test_data[['ID', 'Ground_Truth_Label']].to_csv('codabench_dataset/ground_truth_test_data.csv', index=False)
-submission_template.to_csv('codabench_dataset/submission_format.csv', index=False)
+test_data.to_csv('codabench_dataset/test_data.csv', index=False)
+
+# submission_template.to_csv('codabench_dataset/submission_format.csv', index=False)

@@ -1,84 +1,84 @@
-ID,Post Title,Comment
-368,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,No shit Sherlock….who thought it was because he wants it to build vacation homes?
+ID,Post Title,Comment,Ground_Truth_Label
+368,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,No shit Sherlock….who thought it was because he wants it to build vacation homes?,Low-Value
 347,Nvidia CEO Jensen Huang to meet with Trump at White House,"Billionaires don’t give a fuck about the tariffs, if anything it gives them an excuse to price gouge. 
 
-At the end of the day, consumers pay tariffs and anything we can’t manufacture (which is everything we aren’t already manufacturing,) will continue being imported and the price to consumer will increase."
-534,"Gun Detection Tech Fails To Detect Gun, Prevent School Shooting","No, being prepared is not trying to be a hero.  My 26 years in the US Army was enough heroing for me."
+At the end of the day, consumers pay tariffs and anything we can’t manufacture (which is everything we aren’t already manufacturing,) will continue being imported and the price to consumer will increase.",Mid-Value
+534,"Gun Detection Tech Fails To Detect Gun, Prevent School Shooting","No, being prepared is not trying to be a hero.  My 26 years in the US Army was enough heroing for me.",Low-Value
 1084,OpenAI will offer its tech to US national labs for nuclear weapons research,"Are you so obtuse as to believe they ~wouldn’t~ use this for weapons development?! Seriously?
 
 That will be their PRIMARY, and possibly singular use of this technology. 
 
 Good thing it has proper oversight and regulation… /s
 
-None of this ends well."
-402,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,who was surprised? it's possibly the same reason they're tariffing canada is to strong arm them for ontario's resources.
+None of this ends well.",Mid-Value
+402,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,who was surprised? it's possibly the same reason they're tariffing canada is to strong arm them for ontario's resources.,Mid-Value
 1068,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","thanks for the extra details but thats exactly what a small company is. what does 'worth tens of million' even mean? one million is about..5 top developer salaries.
 
 google laid off something like 13,000 people in the past 2 years. that doesnt count this 'voluntary exit' shit. meta laid off closer to 22,000 and its still not done.
 
-but yah im sure all of these ex-employees are gonna be so glad that your small company is gonna be able to hire like 10 of them, since you're only after the cream of the crop."
-1227,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Capitalism at its best
+but yah im sure all of these ex-employees are gonna be so glad that your small company is gonna be able to hire like 10 of them, since you're only after the cream of the crop.",High-Value
+1227,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Capitalism at its best,Noisy
 1333,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","I believe their argument is something like “excessive abundance of erotic media discourages young people from forming relationships with each other. Instead young folks use easily accessible pornography for quick gratification.” The current idea from certain political parties is that porn replaces sex and that by eliminating porn you push people to sex for gratification. I don’t think it’s a useful argument regardless of its questionable validity. The internet is saturated with so much adult content that any attempt to censor it is a wash. 
 
-Now to play devil’s advocate, issues surrounding electronic payment for adult content have existed for a long time even if they weren’t mainstream. Hypno kink for instance generally has issues paying creators. Although that’s more down to the nature of dubious consent in certain scenarios which credit card companies want to avoid since it’s grounds to cancel a payment."
-1323,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,But deep seek is free
-1185,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"When we're all unemployed, we'll have plenty of time to participate in the class war!"
+Now to play devil’s advocate, issues surrounding electronic payment for adult content have existed for a long time even if they weren’t mainstream. Hypno kink for instance generally has issues paying creators. Although that’s more down to the nature of dubious consent in certain scenarios which credit card companies want to avoid since it’s grounds to cancel a payment.",High-Value
+1323,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,But deep seek is free,Noisy
+1185,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"When we're all unemployed, we'll have plenty of time to participate in the class war!",Mid-Value
 684,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Remember when their code of conduct mantra was ""Don't Be Evil?""  
 
-It's amazing how far they have fallen is such a short period of time."
-1013,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son","Way, way out in the open. They're not even trying to hide it. How the FUCK did we get here."
+It's amazing how far they have fallen is such a short period of time.",Low-Value
+1013,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son","Way, way out in the open. They're not even trying to hide it. How the FUCK did we get here.",Low-Value
 911,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","I got the impression from your last post that rather than pay fair market value they would rather add an extra middleman to siphon profit, but that literally already is what an employee is.
 
-I thought maybe you were trying to allude to the idea that rather than pay fair market value to start with they now have to hire a whole new set of infrastructure for the second company (like billing)."
-1228,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,We need the kind of phone that have all functionality but no GPS tracking
-35,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",I saw a documentary about a paper salesman who did just that!
-238,"Dell is making everyone return to office, too",As soon as they do the corporations will just replace everyone with cheap H1B yesmen.
-835,"Dell is making everyone return to office, too",Thank you. Nobody ever reads the articles. Most companies have already done away with hybrid but left remote. Whether remote will stick will depend largely on the context of the employee. High value people aren't going to be RIFfed because they want to work from their home office.
+I thought maybe you were trying to allude to the idea that rather than pay fair market value to start with they now have to hire a whole new set of infrastructure for the second company (like billing).",Low-Value
+1228,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,We need the kind of phone that have all functionality but no GPS tracking,Mid-Value
+35,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",I saw a documentary about a paper salesman who did just that!,Noisy
+238,"Dell is making everyone return to office, too",As soon as they do the corporations will just replace everyone with cheap H1B yesmen.,Mid-Value
+835,"Dell is making everyone return to office, too",Thank you. Nobody ever reads the articles. Most companies have already done away with hybrid but left remote. Whether remote will stick will depend largely on the context of the employee. High value people aren't going to be RIFfed because they want to work from their home office.,High-Value
 539,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,"Especially when that is a forced choice! Yay! 
 
-😑"
-282,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,r/NoShitSherlock
+😑",Low-Value
+282,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,r/NoShitSherlock,Noisy
 287,"Dell is making everyone return to office, too","This all seems very elaborate compared to the explanation of ""companies think they get more from their employees in person"".
 
-Just to be clear it's obvious that cities are interested in commercial real estate tax dollars. It's not at all clear how the ""favor network"" causes CEOs to do things that are bad for their business."
-523,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Wait until you get a big playlist and hit shuffle. It'll pay the same 5 songs over and over
+Just to be clear it's obvious that cities are interested in commercial real estate tax dollars. It's not at all clear how the ""favor network"" causes CEOs to do things that are bad for their business.",Mid-Value
+523,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Wait until you get a big playlist and hit shuffle. It'll pay the same 5 songs over and over,Low-Value
 810,"OpenAI's Sam Altman breaks silence on DeepSeek, the Chinese startup that shook Silicon ...",">“We will pull up some releases. But mostly we are excited to continue to execute on our research roadmap and believe more compute is more important now than ever before to succeed at our mission. DeepSeek is a Chinese propaganda tool.” said the CEO of OpenAI, suggesting that increased compute power would be critical in OpenAI maintaining its edge in the AI race
 
-The fact that he calls it a propaganda tool tells you everything you need to know about OpenAI"
-917,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","Also, the Japanese government constantly wants young people to stop being online so much."
-1058,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Did you ever think about working for Netflix? They send you a deck that describes an atmosphere like """"Lord of The Flies,"" where every morning your ""scrum"" can vote you off the island"
-945,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","2 companies that won't get a single penny from me, Google, and Tesla. I'd like the Pixel phone, but I just couldn't convince myself to buy it from them, more so given the last few weeks."
+The fact that he calls it a propaganda tool tells you everything you need to know about OpenAI",High-Value
+917,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","Also, the Japanese government constantly wants young people to stop being online so much.",Mid-Value
+1058,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Did you ever think about working for Netflix? They send you a deck that describes an atmosphere like """"Lord of The Flies,"" where every morning your ""scrum"" can vote you off the island",Low-Value
+945,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","2 companies that won't get a single penny from me, Google, and Tesla. I'd like the Pixel phone, but I just couldn't convince myself to buy it from them, more so given the last few weeks.",Low-Value
 772,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","It’s not the pay lol, they aren’t cutting anyone’s pay. It’s the output.
 
 faang has been paying top salaries for over a decade, plus benefits plus perks like free food etc billions to keep employees happy. And while yes the company has been immensely profitable, they’ve stagnated. 
 
 Chinese companies, new startups etc are building better products and at a fraction of the cost. There’s an inflection point now where if these companies don’t change they’ll go the way of all the former big tech companies, slowly into extinction. And they are paying all this money to lose so they aren’t happy. 
 
-If you are getting paid big bucks you need to deliver. And if you can’t go elsewhere. That’s the message "
+If you are getting paid big bucks you need to deliver. And if you can’t go elsewhere. That’s the message ",High-Value
 36,OpenAI will offer its tech to US national labs for nuclear weapons research,"*  Skynet begins to learn at a geometric rate. It becomes self-aware at 2:14 a.m. Eastern time, August 29th. In a panic, they try to pull the plug.
-* Skynet fights back. It launches its missiles"
-215,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,lol not giving a final paycheck would be theft
-1318,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","I agree that it's functionally the same for many people, but that doesn't make it an actual ban."
-1102,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,All federal oversight might as well not exist right now.
-881,Nvidia CEO Jensen Huang to meet with Trump at White House,Pay tribute to Caesar
+* Skynet fights back. It launches its missiles",Low-Value
+215,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,lol not giving a final paycheck would be theft,Low-Value
+1318,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","I agree that it's functionally the same for many people, but that doesn't make it an actual ban.",Low-Value
+1102,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,All federal oversight might as well not exist right now.,Low-Value
+881,Nvidia CEO Jensen Huang to meet with Trump at White House,Pay tribute to Caesar,Noisy
 507,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son","Trump is now one of richest men on earth. It all comes from DJT stock and Memecoin scam
 
-How many employees do your think Truth social has, how many followers ; and certainly no positive earnings"
-627,Nvidia CEO Jensen Huang to meet with Trump at White House,"Jensen, you are too normal for those crazy things"
-310,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Go watch Silicon Valley on HBO. It's definitely 100% satire and tongue in cheek, but it's an eye opener about how hard it is to bring a platform to market. They're constantly being sued and dealing with crazy tech assholes and ridiculous billionaires. Again, take it as satire, but a lot of that shit does happen."
+How many employees do your think Truth social has, how many followers ; and certainly no positive earnings",Mid-Value
+627,Nvidia CEO Jensen Huang to meet with Trump at White House,"Jensen, you are too normal for those crazy things",Low-Value
+310,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Go watch Silicon Valley on HBO. It's definitely 100% satire and tongue in cheek, but it's an eye opener about how hard it is to bring a platform to market. They're constantly being sued and dealing with crazy tech assholes and ridiculous billionaires. Again, take it as satire, but a lot of that shit does happen.",Mid-Value
 944,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Shareholder primacy, they have one job and one job only.
 
-Public companies must prioritize maximizing shareholder value above all other considerations, or face legal and market consequences.​​​​​​​​​​​​​​​​"
-1303,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,You don't say.
-1020,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,ever heard of copilot or other AI assistance tools?
+Public companies must prioritize maximizing shareholder value above all other considerations, or face legal and market consequences.​​​​​​​​​​​​​​​​",Mid-Value
+1303,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,You don't say.,Noisy
+1020,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,ever heard of copilot or other AI assistance tools?,Low-Value
 861,"Dell is making everyone return to office, too","Sorry to hear.  Their 34"" ultrawide OLED is hard to beat the price, warranty, and quality.  They're the only manufacturer who provide a burn in warranty.
 
-Typing to you from my 34"" Alienware OLED, owned a year now, couldn't be happier."
+Typing to you from my 34"" Alienware OLED, owned a year now, couldn't be happier.",High-Value
 455,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,"https://techcrunch.com/2024/11/15/i-went-to-greenland-to-try-to-buy-it-meet-the-founder-who-wants-to-re-create-mars-on-earth/
 
-Techbros want to build a charter city over there and practice terraforming Mars as well."
-13,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Lets all point out the at will employment laws in Texas and many other states. I looked it up and they can fire you for any reason and proving they're at fault is a pretty high bar
-373,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Will be cancelling my Google storage subsciption if they get rid of Photos.
+Techbros want to build a charter city over there and practice terraforming Mars as well.",Low-Value
+13,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Lets all point out the at will employment laws in Texas and many other states. I looked it up and they can fire you for any reason and proving they're at fault is a pretty high bar,Mid-Value
+373,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Will be cancelling my Google storage subsciption if they get rid of Photos.,Mid-Value
 388,ICE Is Swiftly Expanding Its Sprawling Surveillance Apparatus,"Oh, this is quite the mix of legal confusion and a bit of dystopian paranoia. Let’s unpack it step by step.
 
 First, the idea that foreign nationals are “not bound by the US Constitution” is simply incorrect. The Constitution applies to all persons within the jurisdiction of the United States, not just citizens. This has been affirmed by the Supreme Court in cases like Plyler v. Doe (1982) and Zadvydas v. Davis (2001). The 14th Amendment explicitly states that “any person” within the United States is entitled to equal protection and due process under the law.
@@ -89,9 +89,9 @@ Now, regarding mass surveillance, yes, government surveillance exists, but equat
 
 Lastly, I absolutely agree that people should be more mindful of what they share about themselves online, but here is the kicker. The government is not expanding mass surveillance because of undocumented immigrants knowing their rights. It is often justified under national security concerns, technological advancements, and, let’s be real, people willingly putting their entire lives on social media for free.
 
-So, if we are worried about government overreach, maybe we should focus on the actual policies enabling it rather than making undocumented immigrants the scapegoat. Just a thought."
-381,"US should 'steal' China's best AI talent to keep pace, Senate hears","they send them here, you dont need to steal anything"
-900,"Dell is making everyone return to office, too","Check out Framework, they are pretty solid, and super easy to upgrade/repair too."
+So, if we are worried about government overreach, maybe we should focus on the actual policies enabling it rather than making undocumented immigrants the scapegoat. Just a thought.",High-Value
+381,"US should 'steal' China's best AI talent to keep pace, Senate hears","they send them here, you dont need to steal anything",Mid-Value
+900,"Dell is making everyone return to office, too","Check out Framework, they are pretty solid, and super easy to upgrade/repair too.",Mid-Value
 1146,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","The business life cycle:
 
 1. We are a startup. We are desperate for customers. Our search page is a blank, white page with a title and a box. No ads! No data mining! Just search.
@@ -102,58 +102,58 @@ So, if we are worried about government overreach, maybe we should focus on the a
 
 4. Oops, we fucked up! CEO is now fired, and company is on the block. No one of talent wants to work for us. Our pay is shit, the experience of working for us is like the government or worse, and our competitors are disrupting the fuck out of us. Maybe we should start listening to those consultants we ignored for a decade. 
 
-5. Death or an amazing turnaround."
-1328,Nvidia CEO Jensen Huang to meet with Trump at White House,Y'all need some Satre in here
-1110,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,"Well yeah, that's the American way."
-397,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son",Kash Patel really packed on the pounds. Looking a little chunky Kush
+5. Death or an amazing turnaround.",Mid-Value
+1328,Nvidia CEO Jensen Huang to meet with Trump at White House,Y'all need some Satre in here,Noisy
+1110,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,"Well yeah, that's the American way.",Low-Value
+397,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son",Kash Patel really packed on the pounds. Looking a little chunky Kush,Low-Value
 854,DeepSeek AI blocked by Italian authorities as others member states open probes,"Italy also blocked ChatGPT, so this has nothing to do with it being from China, and all about the problems with privacy.
 
-https://www.bbc.com/news/technology-65139406"
-844,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,Technically it's just who gets the freedom of choice in this scenario. Owners or tenants
-1225,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","I was implying that instead of the free agent becoming competition, the original company buys them out and makes them a middleman.   Thus leading to higher prices (for the consumer) and absolving the threat of better alternatives."
-592,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,It's been a thing for a while but FCC Chairwoman Jessica Rosenworcel proposed a rule that would end it but the new MAGA douche who is taking the job has canceled the rule.
-1097,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",Democracy + social media heavily used by far rightists = illiberalism. Aside from the homophobia the UAE and Oman are looking pretty good right now.
-1270,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",I don't understand is banks knows what games i buy
-552,"Dell is making everyone return to office, too",And schools.
+https://www.bbc.com/news/technology-65139406",Mid-Value
+844,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,Technically it's just who gets the freedom of choice in this scenario. Owners or tenants,Low-Value
+1225,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","I was implying that instead of the free agent becoming competition, the original company buys them out and makes them a middleman.   Thus leading to higher prices (for the consumer) and absolving the threat of better alternatives.",Noisy
+592,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,It's been a thing for a while but FCC Chairwoman Jessica Rosenworcel proposed a rule that would end it but the new MAGA douche who is taking the job has canceled the rule.,Mid-Value
+1097,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",Democracy + social media heavily used by far rightists = illiberalism. Aside from the homophobia the UAE and Oman are looking pretty good right now.,Low-Value
+1270,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",I don't understand is banks knows what games i buy,Low-Value
+552,"Dell is making everyone return to office, too",And schools.,Low-Value
 837,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","I get downvoted for saying it usually, but that really is the good use case for crypto.
 
 It's not meant to be an investment. Currency shouldn't ever be an investment, and a currency with a rising value is pretty bad.
 
 But we absolutely need something that isn't exclusively controlled by a few rich fucks. The government is one thing I guess, and generally less of a concern. But the big one I see a lot of is credit card companies being lobbied by religious groups.
 
-They absolutely aren't the government, and shouldn't have anything like the kind of control they do over how people can spend their money on perfectly legal things."
-988,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Not an MS employee, but I'm in Cybersecurity and it's concerning to see many businesses laying off security teams. AI and automated security tools cannot replace real people."
-323,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Microsoft is going all-in on AI (increasing their CAPEX by 52%, so they have to make the cuts!). Amazon first tier support is now almost all AI. Salesforce first and second tier replaced - customer support, web development, cyber security analysts etc. Big tech is expected to shed over 40% of their work force in the next three years."
-1233,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Do you think this government will hold anyone accountable of anything?
-1092,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Eh this is more of a forced retirement for lots of upper management
-477,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Is it's mission to gargle Donald Trumps smelly old balls?
-1054,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Don't think so, the mass layoffs that are happening now seem to be that DeepSeek has spooked A LOT of tech companies and they know they're going to struggle to keep shareholders happy, the people must go first."
-1030,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",And here come the H1B visa employees! America first!
+They absolutely aren't the government, and shouldn't have anything like the kind of control they do over how people can spend their money on perfectly legal things.",High-Value
+988,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Not an MS employee, but I'm in Cybersecurity and it's concerning to see many businesses laying off security teams. AI and automated security tools cannot replace real people.",Low-Value
+323,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Microsoft is going all-in on AI (increasing their CAPEX by 52%, so they have to make the cuts!). Amazon first tier support is now almost all AI. Salesforce first and second tier replaced - customer support, web development, cyber security analysts etc. Big tech is expected to shed over 40% of their work force in the next three years.",High-Value
+1233,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Do you think this government will hold anyone accountable of anything?,Low-Value
+1092,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Eh this is more of a forced retirement for lots of upper management,Low-Value
+477,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Is it's mission to gargle Donald Trumps smelly old balls?,Low-Value
+1054,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Don't think so, the mass layoffs that are happening now seem to be that DeepSeek has spooked A LOT of tech companies and they know they're going to struggle to keep shareholders happy, the people must go first.",Mid-Value
+1030,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",And here come the H1B visa employees! America first!,Low-Value
 474,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Well, it’s been pretty clear we have been in the later stages of capitalism for a while now.
 
-social programs or things that benefit the working class cut into profits so we can’t have that"
-1045,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,I think it's to build places for the billionaires to move once global warming starts to get really bad.
-568,ICE Is Swiftly Expanding Its Sprawling Surveillance Apparatus,Is that foreign national Elon Musk?
-1109,Nvidia CEO Jensen Huang to meet with Trump at White House,Trumps gonna be wearing a leather jacket shortly after
-657,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","To be fair, some of those devs want to do good work and aren’t being well supported with training and mentorship opportunities. It can be very much a symptom of the unintended consequences of eliminating incentives for people to stay at a given place of employment for the long term. Removal of pensions and other incentives alongside treating everyone as if they’re all replaceable has resulted in massive turnover as folks get pissed off or pushed out. At my company and many others I work with on a regular basis this has resulted in a real drain of institutional knowledge such that it can be difficult to maintain existing products or launch derivatives based on them simply because the people who really knew how they worked and why they were set up the way they are have gone. Even with very competent engineers it still results in finding all the problems over again as they unknowingly discover undocumented design decisions and constraints. It’s a serious issue directly linked to the behaviors of late stage capitalism and contributes too rising costs, late deliveries, and quality issues."
-653,"Dell is making everyone return to office, too","If you knew the traffic situation in Round Rock Texas, you’d be amazed at the cruelly of some adding more cars to I-35 at rush hour."
+social programs or things that benefit the working class cut into profits so we can’t have that",Low-Value
+1045,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,I think it's to build places for the billionaires to move once global warming starts to get really bad.,Low-Value
+568,ICE Is Swiftly Expanding Its Sprawling Surveillance Apparatus,Is that foreign national Elon Musk?,Noisy
+1109,Nvidia CEO Jensen Huang to meet with Trump at White House,Trumps gonna be wearing a leather jacket shortly after,Low-Value
+657,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","To be fair, some of those devs want to do good work and aren’t being well supported with training and mentorship opportunities. It can be very much a symptom of the unintended consequences of eliminating incentives for people to stay at a given place of employment for the long term. Removal of pensions and other incentives alongside treating everyone as if they’re all replaceable has resulted in massive turnover as folks get pissed off or pushed out. At my company and many others I work with on a regular basis this has resulted in a real drain of institutional knowledge such that it can be difficult to maintain existing products or launch derivatives based on them simply because the people who really knew how they worked and why they were set up the way they are have gone. Even with very competent engineers it still results in finding all the problems over again as they unknowingly discover undocumented design decisions and constraints. It’s a serious issue directly linked to the behaviors of late stage capitalism and contributes too rising costs, late deliveries, and quality issues.",High-Value
+653,"Dell is making everyone return to office, too","If you knew the traffic situation in Round Rock Texas, you’d be amazed at the cruelly of some adding more cars to I-35 at rush hour.",Mid-Value
 754,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"just wanna stress that every multi-national trillion dollar+ company does in fact have virtually unlimited money laying around
 
-the problem is that they also need to post increasing levels of profit every quarter forever - so bullshit like this happens regularly"
-599,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",Yeah i came to say that. I’ve never really considered Japan to be a sexually repressed country (happy to admit this is purely from seeing some weird shit on the internet and not because i have any other first hand knowledge)
+the problem is that they also need to post increasing levels of profit every quarter forever - so bullshit like this happens regularly",Low-Value
+599,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",Yeah i came to say that. I’ve never really considered Japan to be a sexually repressed country (happy to admit this is purely from seeing some weird shit on the internet and not because i have any other first hand knowledge),Low-Value
 252,OpenAI will offer its tech to US national labs for nuclear weapons research,"Is this what the closed door meeting was about??
 
 Has anyone in the scientific community actually asked for their help?
 
 Large Language Models are not an appropriate tool for scientific data.
 
-They are for generating language."
+They are for generating language.",Mid-Value
 1086,"Dell is making everyone return to office, too","A Youtuber I like did a video about how much getting a computer from Dell sucked. Later he mentioned the jokes about it destroying his marriage were half true, cause his wife came to him and said ""I need my husband back""
 
-Dell out hear straining marriages"
-783,"Dell is making everyone return to office, too",Why do you imagine all of these businesses want their employees back in person research says it makes them less efficient? Are they simply vindictive?
-415,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Google lost my respect the day they removed don’t be evil from their company moto.
-640,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Yea, if we just put in some elbow grease and a few billion we can compete too!"
+Dell out hear straining marriages",Mid-Value
+783,"Dell is making everyone return to office, too",Why do you imagine all of these businesses want their employees back in person research says it makes them less efficient? Are they simply vindictive?,Low-Value
+415,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Google lost my respect the day they removed don’t be evil from their company moto.,Mid-Value
+640,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Yea, if we just put in some elbow grease and a few billion we can compete too!",Low-Value
 675,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Some of the key details:
 
 >Google has distributed a memo to all US employees working on Android, Pixel hardware, and other projects that offers a “voluntary exit program” guaranteeing severance for anyone willing to step away from their role at the company. The memo went out from platforms and devices SVP Rick Osterloh, according to 9to5Google.
@@ -166,61 +166,61 @@ Dell out hear straining marriages"
 >
 >Some employees at Google have recently been circulating a petition that calls for CEO Sundar Pichai to offer exactly this type of optional buyout before resorting to involuntary layoffs. “Ongoing rounds of layoffs make us feel insecure about our jobs,” the petition said, according to CNBC. “The company is clearly in a strong financial position, making the loss of so many valuable colleagues without explanation hurt even more.”
 
-It will be interesting to see what remains of these teams by the end of this attrition process, and whether they can still effectively deliver on the products and services that they were responsible for prior to the amalgamation and subsequent streamlining."
-1251,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,I watched that terrible ass movie and still walked away thinking he was the villain. NIN couldn’t make him cool.
-873,"Dell is making everyone return to office, too","Dude, you're getting a ~~Dell~~ return to office memo"
-786,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","I could see a series of micro-telco-grids that spring up on new technology on cheaper devices and maybe, just maybe without all the malware and spyware. Inkspot strategy then point-to-point to connect 'spots' with eventual saturation."
-453,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Windows 7 is the GOAT
-1219,Nvidia CEO Jensen Huang to meet with Trump at White House,"C'mon trump do it, tariff taiwan and destroy the economy 😂"
+It will be interesting to see what remains of these teams by the end of this attrition process, and whether they can still effectively deliver on the products and services that they were responsible for prior to the amalgamation and subsequent streamlining.",High-Value
+1251,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,I watched that terrible ass movie and still walked away thinking he was the villain. NIN couldn’t make him cool.,Noisy
+873,"Dell is making everyone return to office, too","Dude, you're getting a ~~Dell~~ return to office memo",Low-Value
+786,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","I could see a series of micro-telco-grids that spring up on new technology on cheaper devices and maybe, just maybe without all the malware and spyware. Inkspot strategy then point-to-point to connect 'spots' with eventual saturation.",Mid-Value
+453,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Windows 7 is the GOAT,Low-Value
+1219,Nvidia CEO Jensen Huang to meet with Trump at White House,"C'mon trump do it, tariff taiwan and destroy the economy 😂",Mid-Value
 631,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","Dude, give it a second. They commented 1h ago and it's currently at 200 upvotes. 
 
-There are always a few bots and reactionists that throw a couple downvotes at anything and everything. Give a post an hour before wondering why it's being received negatively."
-1203,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",This is the H1B push. Get ready for no projects to ever get done and teams to be living in constant meetings talking about the work but never doing the work.
+There are always a few bots and reactionists that throw a couple downvotes at anything and everything. Give a post an hour before wondering why it's being received negatively.",Noisy
+1203,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",This is the H1B push. Get ready for no projects to ever get done and teams to be living in constant meetings talking about the work but never doing the work.,Mid-Value
 1121,DeepSeek AI blocked by Italian authorities as others member states open probes,"It's not a crazy thing to block a China hosted website out of privacy concerns. It won't matter though. Soon enough deepseek will be offered from inside the EU and soon after that from inside our own PCs (without having to know anything about software). 
 
-Because caring about privacy is not crazy."
-8,"Dell is making everyone return to office, too",Get that corporate dick out ya butt.
-530,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",I thought Japan's main export was cartoon porn?
-1281,"Dell is making everyone return to office, too","Nah, there are subtle functional differences.  For example, I personally have an Alienware ultrawide I bought a couple years ago because it had superior port selection compared to the alternatives with this same panel."
-149,Nvidia CEO Jensen Huang to meet with Trump at White House,"Nah, Bruised Wean isn't even artificially intelligent. He's just a wax sculpture of a failed Turing test during a heatwave."
-1128,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","Have you forgotten mot only that non-mainstream sites exist, but that VPNs are an option too? It isn't illegal for you to watch porn without submitting an ID. The current laws (which I do despise) simply make it illegal for those sites to allow anyone in without an ID based on their location. They're trying to ban porn, but at the moment, they've effectively *crippled* it."
-83,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,The movie wasn't trying to make you think he was the hero or cool. They literally call him out in it at as a asshole multiple times by multiple people.
-1330,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,I've been given severance for a performance-related firing before as a SWE
-1132,DeepSeek AI blocked by Italian authorities as others member states open probes,"It happend to ChatGPT as well when it was released. It's questionable, but done because they don't comply with privacy laws."
-859,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",They want all of the growth with none of the risk
-1331,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Layoffs are very specifically not employee performance based.
-791,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","The days of ""good guy Google"" are gone. I remember when Google was a somewhat respectable tech company, that put out thoughtful and good products. Now they've fallen to the same disease that all other corporations have, greed. That's also ignoring the fact that they are one of the many companies bending the knee before Emperor Trump."
-760,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","exactly this... the ones who have the talent to get another job right out of the gate will take it. anyone who isn't at that level will stay because they know that especially right now, the tech industry is a mess when it comes to finding work. Everyone is downsizing and trying to figure out how to get their employees replaced by AI to cut costs.  All those employees who stay will eventually be laid off due to performance."
-1147,Analysts say that DeepSeek is the 'Temu of AI',"Well, it's China based platform. They probably won't be far off."
-602,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,Is he even gonna want it now that American AI companies are tanking?
-972,DeepSeek AI blocked by Italian authorities as others member states open probes,They actually got the same treatment. I believe it's a privacy law compliance issue.
+Because caring about privacy is not crazy.",Low-Value
+8,"Dell is making everyone return to office, too",Get that corporate dick out ya butt.,Noisy
+530,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",I thought Japan's main export was cartoon porn?,Low-Value
+1281,"Dell is making everyone return to office, too","Nah, there are subtle functional differences.  For example, I personally have an Alienware ultrawide I bought a couple years ago because it had superior port selection compared to the alternatives with this same panel.",Noisy
+149,Nvidia CEO Jensen Huang to meet with Trump at White House,"Nah, Bruised Wean isn't even artificially intelligent. He's just a wax sculpture of a failed Turing test during a heatwave.",Noisy
+1128,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","Have you forgotten mot only that non-mainstream sites exist, but that VPNs are an option too? It isn't illegal for you to watch porn without submitting an ID. The current laws (which I do despise) simply make it illegal for those sites to allow anyone in without an ID based on their location. They're trying to ban porn, but at the moment, they've effectively *crippled* it.",Low-Value
+83,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,The movie wasn't trying to make you think he was the hero or cool. They literally call him out in it at as a asshole multiple times by multiple people.,Low-Value
+1330,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,I've been given severance for a performance-related firing before as a SWE,Mid-Value
+1132,DeepSeek AI blocked by Italian authorities as others member states open probes,"It happend to ChatGPT as well when it was released. It's questionable, but done because they don't comply with privacy laws.",Low-Value
+859,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",They want all of the growth with none of the risk,Low-Value
+1331,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Layoffs are very specifically not employee performance based.,Low-Value
+791,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","The days of ""good guy Google"" are gone. I remember when Google was a somewhat respectable tech company, that put out thoughtful and good products. Now they've fallen to the same disease that all other corporations have, greed. That's also ignoring the fact that they are one of the many companies bending the knee before Emperor Trump.",High-Value
+760,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","exactly this... the ones who have the talent to get another job right out of the gate will take it. anyone who isn't at that level will stay because they know that especially right now, the tech industry is a mess when it comes to finding work. Everyone is downsizing and trying to figure out how to get their employees replaced by AI to cut costs.  All those employees who stay will eventually be laid off due to performance.",High-Value
+1147,Analysts say that DeepSeek is the 'Temu of AI',"Well, it's China based platform. They probably won't be far off.",Low-Value
+602,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,Is he even gonna want it now that American AI companies are tanking?,Low-Value
+972,DeepSeek AI blocked by Italian authorities as others member states open probes,They actually got the same treatment. I believe it's a privacy law compliance issue.,Low-Value
 1342,Nvidia CEO Jensen Huang to meet with Trump at White House,"Someone's got some 'splainin to do on how a bunch of H100s ended up in China. Surely, American intelligence knows with certainty H100s have been sold to China someway somehow, and surely, NVIDIA knows they know.  
 
-So now what? Interesting that's not discussed, other than a mention of DeepSeek, in the article."
-102,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Yes, it signals that you shouldn't have any loyalty to any employer at all."
-1302,ICE Is Swiftly Expanding Its Sprawling Surveillance Apparatus,A Schrader valve is a type of valve commonly found on car and bike tire. Cutting the off with wire cutters is safer than stabbing the side wall.
-1189,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,All these acquisitions cost Microsoft a good chunk of cash that hasent really added to the bottom line which ofcoarse means layoff talented workers creating gaps of knowledge to complete existing projects. Fuck this country and it's labor practices.
-67,Nvidia CEO Jensen Huang to meet with Trump at White House,"Trump: “Jetson, what the fuck, this is a paper launch, it’s a disaster”"
+So now what? Interesting that's not discussed, other than a mention of DeepSeek, in the article.",High-Value
+102,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Yes, it signals that you shouldn't have any loyalty to any employer at all.",Mid-Value
+1302,ICE Is Swiftly Expanding Its Sprawling Surveillance Apparatus,A Schrader valve is a type of valve commonly found on car and bike tire. Cutting the off with wire cutters is safer than stabbing the side wall.,Low-Value
+1189,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,All these acquisitions cost Microsoft a good chunk of cash that hasent really added to the bottom line which ofcoarse means layoff talented workers creating gaps of knowledge to complete existing projects. Fuck this country and it's labor practices.,High-Value
+67,Nvidia CEO Jensen Huang to meet with Trump at White House,"Trump: “Jetson, what the fuck, this is a paper launch, it’s a disaster”",Noisy
 1296,"Dell is making everyone return to office, too","Can’t get those free layoffs legitimately. Gotta make people quit.
 
-After these cramped offices get jam packed with people commuting from two hours away, they’re going to start disconnecting the A/C and backing up the toilets. Whatever it takes to make workers quit. Get every company everywhere down to an absolutely skeleton crew just like every restaurant and retailer in America."
+After these cramped offices get jam packed with people commuting from two hours away, they’re going to start disconnecting the A/C and backing up the toilets. Whatever it takes to make workers quit. Get every company everywhere down to an absolutely skeleton crew just like every restaurant and retailer in America.",Mid-Value
 1300,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,"I don’t think that make sense. The US already have full access to mining on Greenland (only one US firm has applied for a concession - and got it) as well as full discretion wrt military presence. 
 
-I think it’s his ego. He talks about US expansionism and McKinley - he wants a similar legacy. It could also be butthurtness and revenge… A woman (PM of Denmark) denied him even talking about buying Greenland in his last presidency. I don’t think he liked that…"
-1016,Nvidia CEO Jensen Huang to meet with Trump at White House,Imagine it WAS a simulation and everyone just started... raping each other? Because nothing means anything anymore.
+I think it’s his ego. He talks about US expansionism and McKinley - he wants a similar legacy. It could also be butthurtness and revenge… A woman (PM of Denmark) denied him even talking about buying Greenland in his last presidency. I don’t think he liked that…",High-Value
+1016,Nvidia CEO Jensen Huang to meet with Trump at White House,Imagine it WAS a simulation and everyone just started... raping each other? Because nothing means anything anymore.,Low-Value
 329,Nvidia CEO Jensen Huang to meet with Trump at White House,"I've heard Penn Jillette (the magician, an atheist) once say:  
-""Religious people always ask me 'Well, without the Bible to tell you it's wrong, what keeps you from just going out, raping and killing people?' My response to them is, I have raped and killed all of the people that I have ever wanted to in my life, and do you know how many people that is? That number is *ZERO!* WTF is wrong with you that you need to have something written down that tells you not to do that?? Why don't you just inherently know that it's wrong??"""
-442,"OpenAI's Sam Altman breaks silence on DeepSeek, the Chinese startup that shook Silicon ...",They broke silence!
-943,Nvidia CEO Jensen Huang to meet with Trump at White House,"I don't expect it will work like that.  There is always a new 'bottom' to sink to, until there is no way back."
-574,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","If you can stomach it, stay and sabotage."
+""Religious people always ask me 'Well, without the Bible to tell you it's wrong, what keeps you from just going out, raping and killing people?' My response to them is, I have raped and killed all of the people that I have ever wanted to in my life, and do you know how many people that is? That number is *ZERO!* WTF is wrong with you that you need to have something written down that tells you not to do that?? Why don't you just inherently know that it's wrong??""",High-Value
+442,"OpenAI's Sam Altman breaks silence on DeepSeek, the Chinese startup that shook Silicon ...",They broke silence!,Low-Value
+943,Nvidia CEO Jensen Huang to meet with Trump at White House,"I don't expect it will work like that.  There is always a new 'bottom' to sink to, until there is no way back.",Low-Value
+574,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","If you can stomach it, stay and sabotage.",Low-Value
 2,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","""Small company"" in this context is 15 people and company worth tens of million. You'd be surprised how much inefficiency exists at large bureaucratic companies. Small companies can afford more than you think.
 
-Plus, contracts pay the same per employee no matter your company size."
-517,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,"I honestly think he heard someone talking about the possibility of mining ocean nodules, and he just hyper focused on it."
-192,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Exactly my thought, the grinding now begins."
-990,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","If your take from this is ""we're going public with our neo-nazi beliefs"", you've strayed far away from god into becoming another ideologue."
-1335,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",I still mourn Reader and Podcasts
-226,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",There is zero I will ever trust porn distribution websites with my ID. They’ve effectively banned porn.
+Plus, contracts pay the same per employee no matter your company size.",High-Value
+517,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,"I honestly think he heard someone talking about the possibility of mining ocean nodules, and he just hyper focused on it.",Low-Value
+192,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Exactly my thought, the grinding now begins.",Low-Value
+990,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","If your take from this is ""we're going public with our neo-nazi beliefs"", you've strayed far away from god into becoming another ideologue.",Low-Value
+1335,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",I still mourn Reader and Podcasts,Noisy
+226,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",There is zero I will ever trust porn distribution websites with my ID. They’ve effectively banned porn.,Low-Value
 937,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"That misses the allegory to royalty the big long comment mentioned. 
 
 
@@ -230,40 +230,40 @@ If you combine the government and the tech bros together, you get a wealth extra
 The peasents mill about on their day to day and the rent seeking royal class extracts a tithe. It's why chuckle heads have it so ingrained in them that taxes are bad. They see it as a tithe to the State which doesn't work for them but serves its own interests.
 
 
-The irony there is that they keep elevating people who are bending the State to do exactly the thing they accuse it of doing, and every time someone appears who may want to try and force the state to work in their favor, that person is branded and unelectable socialist and ostracized from their political in-group."
-211,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",https://killedbygoogle.com
-1218,Nvidia CEO Jensen Huang to meet with Trump at White House,Bold to assume he knows how to pronounce Nvidia and doesn't just all it nuhv-dia
+The irony there is that they keep elevating people who are bending the State to do exactly the thing they accuse it of doing, and every time someone appears who may want to try and force the state to work in their favor, that person is branded and unelectable socialist and ostracized from their political in-group.",High-Value
+211,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",https://killedbygoogle.com,Noisy
+1218,Nvidia CEO Jensen Huang to meet with Trump at White House,Bold to assume he knows how to pronounce Nvidia and doesn't just all it nuhv-dia,Low-Value
 1324,"White House sheds light on New Jersey drone sightings, but not everyone is convinced","https://youtu.be/dnnpyNuPdXs?si=hYt5bM3gCocrE6n4
 
 combination of foreign,  u.s. and uap according to this first hand witness/whistle blower.
 
-time will tell i guess..."
-977,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son",Impeachment looks good on him ⚖️
-332,OpenAI will offer its tech to US national labs for nuclear weapons research,"Like everything else in government, it's multiple sectors with different interests. AI in weaponry predates ChatGPT. Nuclear weapons labs are generally simulating weaponry and effects with AI including resilient systems. There are of course other efforts but yeah. "
+time will tell i guess...",High-Value
+977,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son",Impeachment looks good on him ⚖️,Low-Value
+332,OpenAI will offer its tech to US national labs for nuclear weapons research,"Like everything else in government, it's multiple sectors with different interests. AI in weaponry predates ChatGPT. Nuclear weapons labs are generally simulating weaponry and effects with AI including resilient systems. There are of course other efforts but yeah. ",Mid-Value
 874,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","Technology is absolutely at a level that all porn content can effectively be blocked for most of the population.
 
 
-Doesn't matter if you agree with the methods, or if it's even the main reason for birth rates declining, but as a matter of fact we are running into massive problems if it doesn't change. And that's likely even an understatement. "
-1286,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son",The era of absolutely open corruption is now fully underway.
-356,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,Probably?
-1269,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Gotta make room for H1B
+Doesn't matter if you agree with the methods, or if it's even the main reason for birth rates declining, but as a matter of fact we are running into massive problems if it doesn't change. And that's likely even an understatement. ",Mid-Value
+1286,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son",The era of absolutely open corruption is now fully underway.,Low-Value
+356,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,Probably?,Noisy
+1269,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Gotta make room for H1B,Low-Value
 1101,"White House sheds light on New Jersey drone sightings, but not everyone is convinced","""And I will say it’s very easy to speak truth from this podium when you have a president who is implementing policies that are wildly popular with the American people; and that’s exactly what this administration is doing.""
 
-She lied during her opening statement about not lying lol"
+She lied during her opening statement about not lying lol",Low-Value
 1096,Analysts say that DeepSeek is the 'Temu of AI',"They're not calling it garbage, this headline took the quote way out of context to cast aspersions on DeepSeek. They're talking about the business model and the affect it will have on rival American businesses.
 
-In the same quote they said ""DeepSeek created an awesome LLM model (and credit to its software developers)."""
-1129,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",I quit listening to podcasts after it left. Every other app is such fucking shit or requires you to pay. How fucking hard was it to keep that app running?? Seriously? That's the cost saving measure you guys needed? 
+In the same quote they said ""DeepSeek created an awesome LLM model (and credit to its software developers).""",Mid-Value
+1129,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",I quit listening to podcasts after it left. Every other app is such fucking shit or requires you to pay. How fucking hard was it to keep that app running?? Seriously? That's the cost saving measure you guys needed? ,Low-Value
 1125,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","I regularly use clip's from the show to explain behaviour or why we can't do certain things because of the knock on effects etc
 
-The show is satire but everything that happens in that show HAS happened to someone in RL"
-1087,"Backdoor found in two healthcare patient monitors, linked to IP in China",well of course there's a backdoor. why so surprised? how do you think china has been stealing everything under the sun?
-1099,"Dell is making everyone return to office, too","I have an Alienware laptop, desktop and Monitor and they all have given me more headaches than happiness. I think they pretty much suck as a company as far as I can tell."
-588,Analysts say that DeepSeek is the 'Temu of AI',"When the competition gets upset with your work, it's a sign that you're on the right track"
-110,"Dell is making everyone return to office, too",No doubt. I was just pointing out that it's Samsung that makes that panel. Not Dell.
-407,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,LMAO not this SNL skit
-896,Nvidia CEO Jensen Huang to meet with Trump at White House,"""Hello Mr. J Nvidia! My team tells me you make chips - what flavor is your favorite? I prefer doritos myself.. do you guys make those as well?"""
-768,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Do whatever you want, not buying your garbage hardware!"
+The show is satire but everything that happens in that show HAS happened to someone in RL",Low-Value
+1087,"Backdoor found in two healthcare patient monitors, linked to IP in China",well of course there's a backdoor. why so surprised? how do you think china has been stealing everything under the sun?,Low-Value
+1099,"Dell is making everyone return to office, too","I have an Alienware laptop, desktop and Monitor and they all have given me more headaches than happiness. I think they pretty much suck as a company as far as I can tell.",Low-Value
+588,Analysts say that DeepSeek is the 'Temu of AI',"When the competition gets upset with your work, it's a sign that you're on the right track",Low-Value
+110,"Dell is making everyone return to office, too",No doubt. I was just pointing out that it's Samsung that makes that panel. Not Dell.,Low-Value
+407,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,LMAO not this SNL skit,Low-Value
+896,Nvidia CEO Jensen Huang to meet with Trump at White House,"""Hello Mr. J Nvidia! My team tells me you make chips - what flavor is your favorite? I prefer doritos myself.. do you guys make those as well?""",Low-Value
+768,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Do whatever you want, not buying your garbage hardware!",Low-Value
 761,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son","Trump literally made over 1000x what Nancy did, by directly getting paid by people he has power over. 
 
 Nancy's husband had to trade stocks on the public stock market which anyone can do. 
@@ -272,199 +272,199 @@ There is a HUGE difference between insider trading and open bribery and corrupti
 
 We need to focus on the fact that the house is on fire right now, not the fact that there are dirty dishes in the sink. 
 
-We can clean those up if the house remains standing."
-422,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son","Just business as usual in this political landscape, I guess."
-796,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,What’s insane? Getting fired?
+We can clean those up if the house remains standing.",Mid-Value
+422,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son","Just business as usual in this political landscape, I guess.",Low-Value
+796,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,What’s insane? Getting fired?,Low-Value
 701,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Windows 11 is worse than Windows 10.  Windows 8 remains a bigger joke than Windows ME.  Windows 7 is still the best one.
 
 
-edit:  immediately downvoted.  wow.  botted in real time."
-968,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","I have a lot more respect for this, than the mass layoff that's going to happen when not enough people take up this offer."
+edit:  immediately downvoted.  wow.  botted in real time.",Noisy
+968,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","I have a lot more respect for this, than the mass layoff that's going to happen when not enough people take up this offer.",Low-Value
 314,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","Next?
 
 We already have this. 
 
-Patreon has had credit cards stop payment for a bunch of game developers for 18+ games.  They keep changing their terms because of this."
-408,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,I was on this program when I first got in the industry and always wondered why they had so many contracts from such short time frames.
-833,"White House sheds light on New Jersey drone sightings, but not everyone is convinced",Which is what r/aviation figured out when this all started. People just finally started to look up.
-1292,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",First they came for the gooners
+Patreon has had credit cards stop payment for a bunch of game developers for 18+ games.  They keep changing their terms because of this.",Mid-Value
+408,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,I was on this program when I first got in the industry and always wondered why they had so many contracts from such short time frames.,Low-Value
+833,"White House sheds light on New Jersey drone sightings, but not everyone is convinced",Which is what r/aviation figured out when this all started. People just finally started to look up.,Low-Value
+1292,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",First they came for the gooners,Noisy
 309,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","The second implication of this move is when they start adhering to the demands of Trumps administration, they will be firing people left, right, and center. This gives them an opportunity to say “you had the chance to take a package and leave” while they point to whatever legal documents they made people sign in order to stay. 
 
-The tech bubble in the US should have burst awhile ago and the companies are all sucking at the teat (see: mushroom) of the new president now to avoid the collapse. Part of the strategy to avoid a complete burst is to normalize Elon’s style of everyone needs to work 80hr weeks and be bought in to keep their jobs."
-1337,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",“Deeply committed” is business speak for “we want you to live here 24/7 and have no family life”
-271,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",They're gonna be replaced by AI. Same thing happening at Microsoft. But it would be bad publicity to openly admit it.
-1034,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Pay so much money to lose top talent is the dumbest thing I’ve seen
-595,Nvidia CEO Jensen Huang to meet with Trump at White House,“Plz Daddy! We need more sanctions because we can’t compete!!”
+The tech bubble in the US should have burst awhile ago and the companies are all sucking at the teat (see: mushroom) of the new president now to avoid the collapse. Part of the strategy to avoid a complete burst is to normalize Elon’s style of everyone needs to work 80hr weeks and be bought in to keep their jobs.",High-Value
+1337,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",“Deeply committed” is business speak for “we want you to live here 24/7 and have no family life”,Low-Value
+271,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",They're gonna be replaced by AI. Same thing happening at Microsoft. But it would be bad publicity to openly admit it.,Mid-Value
+1034,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Pay so much money to lose top talent is the dumbest thing I’ve seen,Low-Value
+595,Nvidia CEO Jensen Huang to meet with Trump at White House,“Plz Daddy! We need more sanctions because we can’t compete!!”,Low-Value
 174,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,"the amount of apartments that only have 1 ISP available made me think this was already a thing
 
-fuck this stupid earth"
-155,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Without severance? Is that even legal?
-1019,DeepSeek AI blocked by Italian authorities as others member states open probes,"10% that, 90% astroturfing. It's not just reddit, bots were spamming facebook with deepseek memes for a few days. The number of sensationalist headlines tells us there was a coordinated media blitz to make a big deal out of it."
-572,Nvidia CEO Jensen Huang to meet with Trump at White House,What competitors?
+fuck this stupid earth",Noisy
+155,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Without severance? Is that even legal?,Low-Value
+1019,DeepSeek AI blocked by Italian authorities as others member states open probes,"10% that, 90% astroturfing. It's not just reddit, bots were spamming facebook with deepseek memes for a few days. The number of sensationalist headlines tells us there was a coordinated media blitz to make a big deal out of it.",Mid-Value
+572,Nvidia CEO Jensen Huang to meet with Trump at White House,What competitors?,Noisy
 863,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","First they came for video game anime titties, and i did nothing because i do not enjoy anime game titties.
 
-Figure out the rest."
-121,Nvidia CEO Jensen Huang to meet with Trump at White House,To bend the knee and add another sword to the throne
-860,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","SageTV should be added to that list. It was amazing software for recording TV. They bought it, did nothing with it, then finally open sourced it. Nothing is really happening with it."
-460,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,You’re quite right the consultant and MBA class has taken over these tech companies and their only interest is value extraction in the short term
+Figure out the rest.",Low-Value
+121,Nvidia CEO Jensen Huang to meet with Trump at White House,To bend the knee and add another sword to the throne,Noisy
+860,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","SageTV should be added to that list. It was amazing software for recording TV. They bought it, did nothing with it, then finally open sourced it. Nothing is really happening with it.",Mid-Value
+460,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,You’re quite right the consultant and MBA class has taken over these tech companies and their only interest is value extraction in the short term,Mid-Value
 3,OpenAI will offer its tech to US national labs for nuclear weapons research,"This is similar to many other IT solutions, providing  separate “tier”, above enterprise, to governments.
 
-[Amazon’s AWS, for example](https://aws.amazon.com/federal/)"
-983,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",what sector did you move to instead?
-337,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,"Damn, if that's what this is about maybe he could, oh I don't know, actually negotiate a mutually beneficial trade deal with one of our NATO allies that increases the bonds between our countries? Like the good smart businessman he supposedly is? Is that on the table, or are we sticking to dissolving the goodwill between our fellow democracies?"
-964,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","For some reason I've seen this poster several times over and over.  From what I read, teams merged and the offer is to redundant positions now that there are two.  Not really big news."
-451,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","Similar to payment processors over here, they are often very hesitant to get involved with adult content."
-1231,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Left voluntarily I hope
-712,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Android, including phones? Or just Android Auto?"
-157,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Shit OS made by a shit company
-180,Nvidia CEO Jensen Huang to meet with Trump at White House,"AMD maybe Intel, of course they're not the same size, but they're still competitors technically. But like most industries like this it's basically monopolized at this point."
-679,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Anyone recommend a new email server? I just really like gmail but I will switch for personal stuff :(
-325,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,"Or, hear me out, it's another blatant distraction that he always uses."
-445,Nvidia CEO Jensen Huang to meet with Trump at White House,Sounds like someone's getting our tax dollars soon!!!
+[Amazon’s AWS, for example](https://aws.amazon.com/federal/)",Mid-Value
+983,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",what sector did you move to instead?,Low-Value
+337,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,"Damn, if that's what this is about maybe he could, oh I don't know, actually negotiate a mutually beneficial trade deal with one of our NATO allies that increases the bonds between our countries? Like the good smart businessman he supposedly is? Is that on the table, or are we sticking to dissolving the goodwill between our fellow democracies?",Mid-Value
+964,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","For some reason I've seen this poster several times over and over.  From what I read, teams merged and the offer is to redundant positions now that there are two.  Not really big news.",Low-Value
+451,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","Similar to payment processors over here, they are often very hesitant to get involved with adult content.",Mid-Value
+1231,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Left voluntarily I hope,Low-Value
+712,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Android, including phones? Or just Android Auto?",Noisy
+157,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Shit OS made by a shit company,Noisy
+180,Nvidia CEO Jensen Huang to meet with Trump at White House,"AMD maybe Intel, of course they're not the same size, but they're still competitors technically. But like most industries like this it's basically monopolized at this point.",Mid-Value
+679,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Anyone recommend a new email server? I just really like gmail but I will switch for personal stuff :(,Noisy
+325,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,"Or, hear me out, it's another blatant distraction that he always uses.",Low-Value
+445,Nvidia CEO Jensen Huang to meet with Trump at White House,Sounds like someone's getting our tax dollars soon!!!,Low-Value
 446,Oil giant Shell walks away from major New Jersey offshore wind farm,"Who wants to bet Shell execs and industry lobby wanted this to keep drilling.
 
-America the polluted"
-876,OpenAI will offer its tech to US national labs for nuclear weapons research,Computerized nuclear testing exists to replace physical nuclear testing
-97,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",What’s it’s mission?
+America the polluted",Low-Value
+876,OpenAI will offer its tech to US national labs for nuclear weapons research,Computerized nuclear testing exists to replace physical nuclear testing,Low-Value
+97,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",What’s it’s mission?,Noisy
 649,DeepSeek AI blocked by Italian authorities as others member states open probes,"Also, everything is owned by the CCP, which doesn't have to worry about profit and loss since they print money.
 
-These types of comments will get you downvoted on Reddit. They love China around here, except for the genocide part, which is always ignored when they praise the skillset of the thieving CCP."
+These types of comments will get you downvoted on Reddit. They love China around here, except for the genocide part, which is always ignored when they praise the skillset of the thieving CCP.",Mid-Value
 305,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","I'm still mad about stadia and NOT because of the console but the fact during the pandemic, there were game developers using it to keep services up and/or continue development. In my opinion, Google had a way to get into the game industry without necessarily making games/consoles  AND reach to a large customer base. It was right there and I think the benefits would've outweighed any conversion costs.
 
-I hope somewhere they have Stadia with dev tools in tact, in case they decide to pick it up again."
-1179,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",I guess that means they need to be deeply committed to late stage capitalism and profit at all cost. Cool. Totally sustainable.
+I hope somewhere they have Stadia with dev tools in tact, in case they decide to pick it up again.",High-Value
+1179,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",I guess that means they need to be deeply committed to late stage capitalism and profit at all cost. Cool. Totally sustainable.,Mid-Value
 856,Nvidia CEO Jensen Huang to meet with Trump at White House,"> To be fair, all LLMs can and do provide incorrect/misleading answers and push particular and biased answers to queries because their inputs are themselves biased
 
 I agree 100% that all LLMs retain the biases contained in the training data. But, the same can be said of humans. Ask 20 people a question and you might get 20 different answers.
 
-My use case is code generation and I can easily validate R1's responses algorithmically."
-1193,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,“Probably?”
-608,"Dell is making everyone return to office, too","In the film This Is Marshall McLuhan (YouTube), McLuhan declares the end of the office and rush hour traffic. He claimed telephones and closed circuit TV could allow anyone to do office work anywhere they were connected. The film is from 1969."
+My use case is code generation and I can easily validate R1's responses algorithmically.",High-Value
+1193,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,“Probably?”,Noisy
+608,"Dell is making everyone return to office, too","In the film This Is Marshall McLuhan (YouTube), McLuhan declares the end of the office and rush hour traffic. He claimed telephones and closed circuit TV could allow anyone to do office work anywhere they were connected. The film is from 1969.",Noisy
 165,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"https://www.businessinsider.com/microsoft-plans-job-cuts-performance-management-2025-1
 
 This describes it in a little more detail. It does seem like they are doing some widespread reduction in overall headcount, but now instead of cutting specific projects or departments like the first wave, they are focusing on underperformers and being more aggressive in getting rid of them. Now that the market is more competitive you can be pickier in workers is my guess.
 
-It does blur the line between layoffs and terminations."
-581,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,You know WaPo isn't reporting this
+It does blur the line between layoffs and terminations.",High-Value
+581,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,You know WaPo isn't reporting this,Noisy
 111,"Dell is making everyone return to office, too","I may have an unpopular opinion but I think it's harder to monitor everyone's doing their job fully in big companies when they work from home. In my smaller company <300 people if someone isn't doing their work it stands out. In a big company you can fly under the radar. I really don't blame companies for wanting their employees back in desks.   
   
-Also even on my own small team we meet 2 days a week to work from the office and it's a big productivity boost those days to have face time with co-workers, work a problem as a team. I'd not want to work from office 5 days a week but 1-2 days a week would be great."
-367,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",This is coming to America next
-475,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",Our local parks will blossom again!
-114,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,"aah.. ""freedom"""
-1057,"Dell is making everyone return to office, too",They resell first class displays from Chinese and Taiwanese manufacturers. They do not create make them or have input in design besides form factor.
+Also even on my own small team we meet 2 days a week to work from the office and it's a big productivity boost those days to have face time with co-workers, work a problem as a team. I'd not want to work from office 5 days a week but 1-2 days a week would be great.",High-Value
+367,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",This is coming to America next,Low-Value
+475,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",Our local parks will blossom again!,Low-Value
+114,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,"aah.. ""freedom""",Noisy
+1057,"Dell is making everyone return to office, too",They resell first class displays from Chinese and Taiwanese manufacturers. They do not create make them or have input in design besides form factor.,Low-Value
 556,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Pixel Pass was a service that let users pay monthly and upgrade immediately to the new Pixel after two years. 
 
 It was shut down this year. 
 
 It was **two years old**. 
 
-So that shut down before anyone could truly get any use from it lololol that's wild, Google."
-656,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",For real. All of these lost jobs across the country is bad for the economy
-504,Nvidia CEO Jensen Huang to meet with Trump at White House,"""You wanna see my ass? People tell me it's huge! AND CAN YOU BELIEVE Dr. DisRespect got his YouTube channel re-monetized? Crazy times we're living in..."""
+So that shut down before anyone could truly get any use from it lololol that's wild, Google.",Mid-Value
+656,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",For real. All of these lost jobs across the country is bad for the economy,Low-Value
+504,Nvidia CEO Jensen Huang to meet with Trump at White House,"""You wanna see my ass? People tell me it's huge! AND CAN YOU BELIEVE Dr. DisRespect got his YouTube channel re-monetized? Crazy times we're living in...""",Noisy
 319,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",">The fact that this is targeting US-based employees only seems to indicate that they're looking primarily at shedding some of the better compensated employees while leaving those being paid less in place.
 
 This is why Musk has been pushing H1-Bs, and why Trump did a complete 180 on them. Every big tech company is trying to get as many of its US workers to quit as possible so they can replace them with what is essentially slave labor that won't complain or quit because their job is directly tied to their citizenship.
 
-What's especially galling about this is that America already had all their employees essentially held hostage by their jobs by directly tying their access to healthcare to their employer. Apparently that wasn't quite enough control over the workers; now they want to be able to hold medical care AND citizenship over the heads of their staff."
-495,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,Yes. And position for the North Atlantic/Arctic Crossing.
+What's especially galling about this is that America already had all their employees essentially held hostage by their jobs by directly tying their access to healthcare to their employer. Apparently that wasn't quite enough control over the workers; now they want to be able to hold medical care AND citizenship over the heads of their staff.",High-Value
+495,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,Yes. And position for the North Atlantic/Arctic Crossing.,Mid-Value
 514,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","Not quite sure about this.
 
 I'd actually argue that the hive mind behaviour is real. Redditors will come in and the number of upvotes on a comment will 100% affect their feelings towards that comment. A comment that's slightly downvoted will often keep getting downvoted by zoned out redditors going on autopilot, even if that comment doesn't deserve it. The inverse is also true, upvoted comments get more upvotes, even if they're shit tier.
 
 I often find that someone eventually replying to the comment with ""why is this downvoted"" will make the zoned out redditors take a step back and actually think why it's downvoted. Or maybe they'll just let the second comment decide their feelings instead of the first, who knows.
 
-Either way, it's entirely possible that comment would still be downvoted at this point if the dude didn't hit em with the certified ""why is this downvoted""."
-1317,Nvidia CEO Jensen Huang to meet with Trump at White House,"""kiss the ring.... avoid the tariffs"""
+Either way, it's entirely possible that comment would still be downvoted at this point if the dude didn't hit em with the certified ""why is this downvoted"".",Low-Value
+1317,Nvidia CEO Jensen Huang to meet with Trump at White House,"""kiss the ring.... avoid the tariffs""",Low-Value
 585,Nvidia CEO Jensen Huang to meet with Trump at White House,">“I hate cool ranch, 3000% tariff on cool ranch!”  
 
 Please, for the love of god, don’t assist this imbecile in discovering it’s possible to extend tariffs even higher than 100%.  
 
-We’re better off with him at least thinking that’s the cutoff."
+We’re better off with him at least thinking that’s the cutoff.",Low-Value
 885,Gmail warns users to secure accounts after 'malicious' AI hack confirmed,"So the title is absolute dogshit. There's no AI hack. 
 
-TLDR: AI is used to mimic a real person that phishes for your login credentials. Don't give anyone your info and you're safe. For now."
+TLDR: AI is used to mimic a real person that phishes for your login credentials. Don't give anyone your info and you're safe. For now.",Mid-Value
 951,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Things have changed, though the VCs won't admit it. Broadly speaking, you can look at the birth of SV as an event that played out over about 30 years, give or take. Computer technology got rapidly cheaper and more prolific in the late 70's through 90's. Then the Internet was a pure greenfield from the 90's to the 2010. Smartphones were the next thing - internet connected computers, but in your hand. But those haven't substantially changed in 10 years or more! They're faster, more ram, faster Internet.. but none of that has enabled truly new apps, just the old ones.. but faster.
 
 But there is only so much ""X-but-on-a-computer"" and ""Y-but-instead-of-on-a-standalone-computer-now-on-the-Internet,"" ""Z-on-a-handheld-computer-on-the-internet"" that can happen. The green field is no longer green it is full of high rises.
 
 When was the last time a truly innovative company even emerged, let alone IPOed from SV? And before that one, how long before the previous one? 
 
-So now you're saying - do something that has already been done, but better/different/cheaper/faster, etc. And defeat the incumbent? It has been long enough now we can look at the track record of THAT happening. For instance - social media. Facebook absolutely obliterated MySpace. It wasn't THAT different, but it was some different. But how long has it been since something truly challenged Facebook? And when something different does come along it gets crushed quickly - FB bought Instagram for $1Billion with 12 employees because they were rightly afraid. Good for those 12 employees.  But what has come along to compete with FB \*or\* Instagram, let alone FB \*and\* Instagram?"
-942,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,"OP never said there was evidence or that they were tracking. Just states their surprise if they weren’t already tracking. It’s not really that outlandish of a claim though considering everyone’s “recommended” section in the app blends together combinations of search histories, spoken conversations and items based on places you’ve been before."
-1291,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","ID laws for porn are quite prolific internationally, but no one talks about that because america."
-1220,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,He really is so pathetic he can't even have designs on world domination without it being to please some billionaire. At least when other fascist leaders want to take other countries it's because they'll be expanding their own power or influence with Trump it's just him desperately saying 'please daddy Musk if I get you Greenland will that be what finally makes you come?'
-147,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,Surely this want of his own privacy will lead to some self realization about his total disregard for many peoples desire to have privacy from Facebook since it's inception... /s
-696,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Butlerian jihad in 3..2...
+So now you're saying - do something that has already been done, but better/different/cheaper/faster, etc. And defeat the incumbent? It has been long enough now we can look at the track record of THAT happening. For instance - social media. Facebook absolutely obliterated MySpace. It wasn't THAT different, but it was some different. But how long has it been since something truly challenged Facebook? And when something different does come along it gets crushed quickly - FB bought Instagram for $1Billion with 12 employees because they were rightly afraid. Good for those 12 employees.  But what has come along to compete with FB \*or\* Instagram, let alone FB \*and\* Instagram?",High-Value
+942,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,"OP never said there was evidence or that they were tracking. Just states their surprise if they weren’t already tracking. It’s not really that outlandish of a claim though considering everyone’s “recommended” section in the app blends together combinations of search histories, spoken conversations and items based on places you’ve been before.",Low-Value
+1291,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","ID laws for porn are quite prolific internationally, but no one talks about that because america.",Mid-Value
+1220,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,He really is so pathetic he can't even have designs on world domination without it being to please some billionaire. At least when other fascist leaders want to take other countries it's because they'll be expanding their own power or influence with Trump it's just him desperately saying 'please daddy Musk if I get you Greenland will that be what finally makes you come?',Mid-Value
+147,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,Surely this want of his own privacy will lead to some self realization about his total disregard for many peoples desire to have privacy from Facebook since it's inception... /s,Mid-Value
+696,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Butlerian jihad in 3..2...,Noisy
 966,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son","yeah. But at some point, depending how extreme he is, people will revolt. Already the govt is so at odds, never seen a bigger divide between dems and reps. 
 
-But I don’t think he’ll be able to get over the term limit"
-725,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,And Canada is about oil mining and timber.  No fucking shit it is a heist.
-486,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,Name and shame the apps
-318,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Definitely reflects real struggles. The tech world isn’t just about innovation; it’s also a minefield of corporate politics and unpredictable personalities. It’s fascinating how much truth there is behind the comedy.
+But I don’t think he’ll be able to get over the term limit",Low-Value
+725,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,And Canada is about oil mining and timber.  No fucking shit it is a heist.,Mid-Value
+486,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,Name and shame the apps,Low-Value
+318,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Definitely reflects real struggles. The tech world isn’t just about innovation; it’s also a minefield of corporate politics and unpredictable personalities. It’s fascinating how much truth there is behind the comedy.,Mid-Value
 159,"White House sheds light on New Jersey drone sightings, but not everyone is convinced","Biden admin Dec 13th or so. But trump continued with conspiracy theories that week and now it's just nothing ... Again 🙄🙄🙄
 
 https://www.yahoo.com/news/nothing-nefarious-biden-gives-first-205402003.html
 
-""The sightings to date include a combination of lawful commercial drones, hobbyist drones, and law enforcement drones, as well as manned fixed-wing aircraft, helicopters, and stars mistakenly reported as drones,"" they wrote. ""We have not identified anything anomalous and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states in the Northeast."""
-1236,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Anyone in bed with a physical google product is crazy. 
+""The sightings to date include a combination of lawful commercial drones, hobbyist drones, and law enforcement drones, as well as manned fixed-wing aircraft, helicopters, and stars mistakenly reported as drones,"" they wrote. ""We have not identified anything anomalous and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states in the Northeast.""",High-Value
+1236,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Anyone in bed with a physical google product is crazy. ,Low-Value
 659,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",">It was shut down this year.
 
-It was SUNSET this year, not shutdown. That's a very different terminology with a very different result."
-348,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,I don’t think they are alone in thinking this way or were making a sarcastic comment.
-664,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"I don’t think you’re using it wrong but it sounds like you are asking it to do much more complex things than I normally do. I’m usually asking it to write a function for my code not the whole code. Or I am asking it to write something simple because I need something I know can be done easily but it’s not something I would normally do. A simple example would be this past week I asked it to make a Powershell script to upload a file from an on-prem server to an Azure blob using an SAS key. Easy peasy I know but don’t normally need to do that and don’t know what functions to even try to use. A few seconds later I have a script I could tweak, test, and move on. Since I’m often working with multiple database platforms and a handful of different code languages I usually know something can be done I just need a nudge of the correct way to do it in the language or platform I’m working with. Then I can run with developing the rest of the solution or fixing whatever is broke."
-1156,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,It would be funny if someone connected his camera he was talking into to a Instagram live feed
-927,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Google is a piece of shit company whose only real product is ramming ads down your throat
-212,"Dell is making everyone return to office, too","I think what works for the employee is best. If you need the office; go in and work. If you are just as productive, if not more, at home; then let them work from home."
-350,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,Yeah there were tons of strategy things leaked. Q&A got much worse over time because of this. It used to be way more interesting a few years ago.
+It was SUNSET this year, not shutdown. That's a very different terminology with a very different result.",Noisy
+348,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,I don’t think they are alone in thinking this way or were making a sarcastic comment.,Low-Value
+664,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"I don’t think you’re using it wrong but it sounds like you are asking it to do much more complex things than I normally do. I’m usually asking it to write a function for my code not the whole code. Or I am asking it to write something simple because I need something I know can be done easily but it’s not something I would normally do. A simple example would be this past week I asked it to make a Powershell script to upload a file from an on-prem server to an Azure blob using an SAS key. Easy peasy I know but don’t normally need to do that and don’t know what functions to even try to use. A few seconds later I have a script I could tweak, test, and move on. Since I’m often working with multiple database platforms and a handful of different code languages I usually know something can be done I just need a nudge of the correct way to do it in the language or platform I’m working with. Then I can run with developing the rest of the solution or fixing whatever is broke.",Noisy
+1156,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,It would be funny if someone connected his camera he was talking into to a Instagram live feed,Noisy
+927,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Google is a piece of shit company whose only real product is ramming ads down your throat,Low-Value
+212,"Dell is making everyone return to office, too","I think what works for the employee is best. If you need the office; go in and work. If you are just as productive, if not more, at home; then let them work from home.",Mid-Value
+350,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,Yeah there were tons of strategy things leaked. Q&A got much worse over time because of this. It used to be way more interesting a few years ago.,Mid-Value
 609,OpenAI launches new o3-mini reasoning model with a free ChatGPT version,"From the first sentence of the article
 
->OpenAI CEO Sam Altman teased exactly two weeks ago that o3-mini would ship in “a couple of weeks,” and it’s arriving on time today."
-466,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Yep - I see it as their “insurance” against another a- situation. Recruiters will know explicit details on this policy and will tell you in interviews.
-811,Meta's WhatsApp says spyware company Paragon targeted users in two dozen countries,Spyware company complains another spyware company uses their spyware platform.
+>OpenAI CEO Sam Altman teased exactly two weeks ago that o3-mini would ship in “a couple of weeks,” and it’s arriving on time today.",Mid-Value
+466,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Yep - I see it as their “insurance” against another a- situation. Recruiters will know explicit details on this policy and will tell you in interviews.,Mid-Value
+811,Meta's WhatsApp says spyware company Paragon targeted users in two dozen countries,Spyware company complains another spyware company uses their spyware platform.,Mid-Value
 982,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Correct. This sucks that people don’t have more protections in the US but that’s how it works. 
 
-People got fired for performance. This wasn’t a layoff presumably."
-257,"Dell is making everyone return to office, too","Yeah, I found out after purchase that the ray-tracing was crippled on the video card shipped with my desktop, really disappointing..."
-766,OpenAI will offer its tech to US national labs for nuclear weapons research,don't bother because it will just be tips and tricks for reproducing failures.
-361,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",This is what’s coming. AI will take all jobs eventually.
+People got fired for performance. This wasn’t a layoff presumably.",Low-Value
+257,"Dell is making everyone return to office, too","Yeah, I found out after purchase that the ray-tracing was crippled on the video card shipped with my desktop, really disappointing...",Mid-Value
+766,OpenAI will offer its tech to US national labs for nuclear weapons research,don't bother because it will just be tips and tricks for reproducing failures.,Noisy
+361,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",This is what’s coming. AI will take all jobs eventually.,Mid-Value
 794,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","I never get 'voluntary exit' programs, rarely makes sense. Just take the morale hit or whatever and fire the # of low performers you need to get your cost structure right. Offering severance seems to incentivize talented workers who can go anywhere easily to go ahead and take it and bounce while incentivizing the unambitious to go hide in their caves.  
 
-It pretends everyone is equal/their impact is equally distributed when that's never the case. The 'mission' people can be just as satisfied at Apple or Tesla or whatever other hardware company."
-1173,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",Those are some good news. The banks are incredibly based for that. I hate porn games and especially the gooners who make them.
-423,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","My 17 year old has our XR. Fantastic phone. Hell, the first XR I got lasted a month before it got run over while we were on a road trip. That thing was crushed and it a baggie in my trunk and kept connected to Bluetooth & played music for a week!"
-692,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,7 was the last one that didn't egregiously spy on you so it's got my vote.
+It pretends everyone is equal/their impact is equally distributed when that's never the case. The 'mission' people can be just as satisfied at Apple or Tesla or whatever other hardware company.",Mid-Value
+1173,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",Those are some good news. The banks are incredibly based for that. I hate porn games and especially the gooners who make them.,High-Value
+423,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","My 17 year old has our XR. Fantastic phone. Hell, the first XR I got lasted a month before it got run over while we were on a road trip. That thing was crushed and it a baggie in my trunk and kept connected to Bluetooth & played music for a week!",Low-Value
+692,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,7 was the last one that didn't egregiously spy on you so it's got my vote.,Noisy
 21,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.","~~Imagine going to a physical store and have a bank deny credit card purchase based on the items you brought to the register. It's dystopian.~~
 
-Edit: oh it's the developers not getting the payments. Makes more sense but still appalling."
-946,Nvidia CEO Jensen Huang to meet with Trump at White House,"Yeah, this is what I think this is about. It's also why billionaires hang around Trump so much imo. They're trying for exceptions to the tariffs."
-374,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Anyone else think these people are going to be replaced by AIAgents?
-978,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Yep, I have a Synology NAS too. I dont' want to me locked ecosystem wise into Synology. I'm looking for something you can run in Docker, that encrypts photos locally. A separate backup docker container for backing up off site. I haven't looked into it too much, but should probably start to. What Android and iOS software is there for automatically syncing photos to the application do you use?"
-721,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",gooners are an oppressed class
-606,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son",just the tip
-1140,Nvidia CEO Jensen Huang to meet with Trump at White House,Nvidia 50 series photo shoot just like the Goya photo shoot 🤣
-1197,Analysts say that DeepSeek is the 'Temu of AI',"God, they are so mad."
+Edit: oh it's the developers not getting the payments. Makes more sense but still appalling.",Mid-Value
+946,Nvidia CEO Jensen Huang to meet with Trump at White House,"Yeah, this is what I think this is about. It's also why billionaires hang around Trump so much imo. They're trying for exceptions to the tariffs.",Low-Value
+374,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Anyone else think these people are going to be replaced by AIAgents?,Low-Value
+978,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Yep, I have a Synology NAS too. I dont' want to me locked ecosystem wise into Synology. I'm looking for something you can run in Docker, that encrypts photos locally. A separate backup docker container for backing up off site. I haven't looked into it too much, but should probably start to. What Android and iOS software is there for automatically syncing photos to the application do you use?",Mid-Value
+721,"Banks in Japan are blocking Steam payments for sex games, leaving Japanese adult game devs cut off from income | Stalled Steam profits are prompting free speech concerns.",gooners are an oppressed class,Low-Value
+606,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son",just the tip,Noisy
+1140,Nvidia CEO Jensen Huang to meet with Trump at White House,Nvidia 50 series photo shoot just like the Goya photo shoot 🤣,Low-Value
+1197,Analysts say that DeepSeek is the 'Temu of AI',"God, they are so mad.",Noisy
 1226,Nvidia CEO Jensen Huang to meet with Trump at White House,"You had me in the beginning. ;-)
 
 I'm just as worried about the data that goes to OpenAI, reddit, etc.
 
-I won't be the least bit surprised if Trump tries to outright ban models from other countries while US companies continue to collect (and profit from) data from users all over the world."
-624,Nvidia CEO Jensen Huang to meet with Trump at White House,"“Ah mr Ginseng, my favorite gynese. You people do good math? I also do very good math. Yes. Some even say i do the best math. And i say, yea i dunno but i do pretty good math. How many lines can you do? I do 3 lines. Yes, very good math”"
-377,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Podcast addict is pretty good.  The ads were tiny, static and easily ignored but I paid $5 for the ad free version because I sincerely wanted to support the dev"
-923,Tesla's Paid Robotaxi Service Slated to Start in Austin in June,Lol these are going to be fucking death traps. In case you needed another reason to get the fuck out of Texas. 
+I won't be the least bit surprised if Trump tries to outright ban models from other countries while US companies continue to collect (and profit from) data from users all over the world.",Low-Value
+624,Nvidia CEO Jensen Huang to meet with Trump at White House,"“Ah mr Ginseng, my favorite gynese. You people do good math? I also do very good math. Yes. Some even say i do the best math. And i say, yea i dunno but i do pretty good math. How many lines can you do? I do 3 lines. Yes, very good math”",Noisy
+377,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Podcast addict is pretty good.  The ads were tiny, static and easily ignored but I paid $5 for the ad free version because I sincerely wanted to support the dev",Noisy
+923,Tesla's Paid Robotaxi Service Slated to Start in Austin in June,Lol these are going to be fucking death traps. In case you needed another reason to get the fuck out of Texas. ,Low-Value
 561,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"Yep. I’m a former v-dasher myself. Microsoft got sued about a decade ago by internal support vendors, so they created the 18/6 rule:
 
-https://www.reddit.com/r/msp/comments/xl072w/question_about_vdash_job_for_microsoft_and_186/"
-815,"Dell is making everyone return to office, too","I am consumer level, and it's that reputation I bought their products for. I am sorely disappointed."
-1076,"Dell is making everyone return to office, too",I didn’t even know Dell was still around…
-717,Nvidia CEO Jensen Huang to meet with Trump at White House,Leather jacket man meets moron.
-750,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"I did. My manager got let go i think because of the same thing, a major project was insurmountable. Then i was tasked with it and had a month to get the team to get it resolved. They even got someone to help me plan it all out but it just couldnt happen. I was going to quit that morning but they let me go instead with a decent severance"
-258,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,"Sure, but that’s really easy to catch as well. The leaker just needs to compare their memo to a few friends’ memo. If there are no differences, then they can freely send it out. If there are changes, then they could figure out which words change between the different versions and replace them with their own synonyms."
-222,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,May? I thought he wanted to make it into Americas own little vacation destination...... Trump Tower and all....
+https://www.reddit.com/r/msp/comments/xl072w/question_about_vdash_job_for_microsoft_and_186/",Mid-Value
+815,"Dell is making everyone return to office, too","I am consumer level, and it's that reputation I bought their products for. I am sorely disappointed.",Low-Value
+1076,"Dell is making everyone return to office, too",I didn’t even know Dell was still around…,Low-Value
+717,Nvidia CEO Jensen Huang to meet with Trump at White House,Leather jacket man meets moron.,Noisy
+750,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,"I did. My manager got let go i think because of the same thing, a major project was insurmountable. Then i was tasked with it and had a month to get the team to get it resolved. They even got someone to help me plan it all out but it just couldnt happen. I was going to quit that morning but they let me go instead with a decent severance",Mid-Value
+258,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,"Sure, but that’s really easy to catch as well. The leaker just needs to compare their memo to a few friends’ memo. If there are no differences, then they can freely send it out. If there are changes, then they could figure out which words change between the different versions and replace them with their own synonyms.",High-Value
+222,Trump’s Greenland Obsession May Be About Extracting Metals for Tech Billionaires | The great battle for Greenland is probably all about resources to make apps like ChatGPT better.,May? I thought he wanted to make it into Americas own little vacation destination...... Trump Tower and all....,Mid-Value
 880,OpenAI will offer its tech to US national labs for nuclear weapons research,"Are they using the Terminator movie script as an instruction manual?
 
-Seems like it."
-307,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","It was so much easier to use than Spotify. I finally downloaded Spotify and am not impressed... I can't reorder my playlists, it's too cluttered, and adds podcasts to my page that I don't want to see."
+Seems like it.",Low-Value
+307,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","It was so much easier to use than Spotify. I finally downloaded Spotify and am not impressed... I can't reorder my playlists, it's too cluttered, and adds podcasts to my page that I don't want to see.",Mid-Value
 331,WhatsApp says journalists and civil society members were targets of Israeli spyware | Messaging app said it had ‘high confidence’ some users were targeted and ‘possibly compromised’ by Paragon Solutions spyware,"From this developing story:
 
 >“WhatsApp has disrupted a spyware campaign by Paragon that targeted a number of users including journalists and members of civil society. We’ve reached out directly to people who we believe were affected. This is the latest example of why spyware companies must be held accountable for their unlawful actions. WhatsApp will continue to protect people’s ability to communicate privately,” a company spokesperson said.
@@ -473,29 +473,29 @@ Seems like it."
 >
 >WhatsApp said it believed the so-called vector, or means by which the infection was delivered to users, was through a malicious pdf file that was sent to individuals who were added to group chats. WhatsApp said it could say with “confidence” that Paragon was linked to this targeting.
 
-It will be good to learn more details about this attack, and what specifically might have been compromised."
+It will be good to learn more details about this attack, and what specifically might have been compromised.",High-Value
 1214,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Not only poultry, EVERY industry I looked into in detail in the past has a cabal of non-competitive monopolies who share the market, keep the price high, and resort to any imaginable tactic available (often illegal ones), and the whole weight of their domination on the market and influence to ensure no other competition will ever join the fray.
 
-You see this in every industry. That's late stage capitalism for you, and the only loosing one's is always the same, the consumer."
-158,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,"Ah yes this must be that ""winning"" thing."
-132,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Will Google be deeply committed to those who stay?
-11,Nvidia CEO Jensen Huang to meet with Trump at White House,"We’re already living in it, unfortunately"
-118,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,Small government at work
-454,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",What do you think paying the workers fair market value does?
-220,Nvidia CEO Jensen Huang to meet with Trump at White House,"The pricing will be spread to other countries too due to tariffs impacting shipping costs, lower margins/sales in the U.S., and other countries being less of a priority than the U.S. market"
+You see this in every industry. That's late stage capitalism for you, and the only loosing one's is always the same, the consumer.",Noisy
+158,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,"Ah yes this must be that ""winning"" thing.",Low-Value
+132,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",Will Google be deeply committed to those who stay?,Mid-Value
+11,Nvidia CEO Jensen Huang to meet with Trump at White House,"We’re already living in it, unfortunately",Low-Value
+118,Apartment landlords can force tenants to use specific ISPs under new FCC action | A previous proposal would have allowed residents to opt out of the landlord's ISP choice,Small government at work,Noisy
+454,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",What do you think paying the workers fair market value does?,Low-Value
+220,Nvidia CEO Jensen Huang to meet with Trump at White House,"The pricing will be spread to other countries too due to tariffs impacting shipping costs, lower margins/sales in the U.S., and other countries being less of a priority than the U.S. market",Mid-Value
 90,"Dell is making everyone return to office, too","Yeah, Super Eyepatch Wolf - My Journey into Hell:
 
-[https://www.youtube.com/watch?v=MR25BVBsuS0](https://www.youtube.com/watch?v=MR25BVBsuS0)"
-1247,Nvidia CEO Jensen Huang to meet with Trump at White House,I bet the words Deepseek and China are repeated about 50 times.
+[https://www.youtube.com/watch?v=MR25BVBsuS0](https://www.youtube.com/watch?v=MR25BVBsuS0)",Noisy
+1247,Nvidia CEO Jensen Huang to meet with Trump at White House,I bet the words Deepseek and China are repeated about 50 times.,Low-Value
 759,Lawsuit accuses Amazon of secretly tracking consumers through cellphones,"I'll leave this here.
 
-[https://grapheneos.org/](https://grapheneos.org/)"
-711,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",They should unionize
-1122,DeepSeek AI blocked by Italian authorities as others member states open probes,"Everybody copies everyone, the only difference is that China takes your ideas and does them better and with more efficiency."
-963,OpenAI will offer its tech to US national labs for nuclear weapons research,"Didn't bother reading it, but I feel like I ought to screenshot this headline so I can show people when we're all living underground in a few years"
-116,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,It was me. Fire me Zucker!
-491,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Yeah, my biggest gripes with Spotify all have to do with them ~~trying to~~ _insisting on_ making my decisions for me."
-537,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son",Who’s going to prosecute them?
-1208,Oil giant Shell walks away from major New Jersey offshore wind farm,do we have a tariff on wind yet?
-669,DeepSeek AI blocked by Italian authorities as others member states open probes,"just like chat gpt was trained on by all of us, what’s you’re point?"
-1183,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Nice to see you in a different subreddit but still getting obliterated with downvotes 😂
+[https://grapheneos.org/](https://grapheneos.org/)",Noisy
+711,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission",They should unionize,Low-Value
+1122,DeepSeek AI blocked by Italian authorities as others member states open probes,"Everybody copies everyone, the only difference is that China takes your ideas and does them better and with more efficiency.",Low-Value
+963,OpenAI will offer its tech to US national labs for nuclear weapons research,"Didn't bother reading it, but I feel like I ought to screenshot this headline so I can show people when we're all living underground in a few years",Low-Value
+116,Meta memo threatening to fire leakers is immediately leaked; Zuck says it sucks - 9to5Mac,It was me. Fire me Zucker!,Noisy
+491,"Google offers ‘voluntary exit’ to all US platforms and devices employees | Those who leave will get severance, and the company wants anyone that stays to be ‘deeply committed’ to its mission","Yeah, my biggest gripes with Spotify all have to do with them ~~trying to~~ _insisting on_ making my decisions for me.",Noisy
+537,"Trump Media gifts DJT shares to FBI pick Kash Patel, Linda McMahon and president's son",Who’s going to prosecute them?,Low-Value
+1208,Oil giant Shell walks away from major New Jersey offshore wind farm,do we have a tariff on wind yet?,Noisy
+669,DeepSeek AI blocked by Italian authorities as others member states open probes,"just like chat gpt was trained on by all of us, what’s you’re point?",Low-Value
+1183,Microsoft layoffs go ‘harder’: Termination ‘effective immediately’ with no severance pay and … - The Times of India,Nice to see you in a different subreddit but still getting obliterated with downvotes 😂,Noisy

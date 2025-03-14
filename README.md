@@ -20,6 +20,5 @@ There are **3 Python files** under the `training_model/` directory:
 
 ---
 
-If needed, you can add a link at the end:
-> 📎 *Codabench Task Link:* [Igh]  
-> 📎 *Presentation Slides:* [hjh]
+📎 *Codabench Task Link:* [Igh]  
+📎 *Presentation Slides:* [hjh]
